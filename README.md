@@ -17,7 +17,7 @@ If you need...
 
 ...you're covered!
 
-![Workspaces](http://wiki.sensenet.com/images/5/5e/Ws-main.png "Workspaces")
+![Workspaces](http://wiki.sensenet.com/images/5/5e/Ws-main.png)
 
 ## sensenet can be a lot of things
 
